@@ -13,7 +13,7 @@ int main() {
 
 
 
-        cout<<"Enter rows and columns to start: "<<endl;
+        cout<<"Enter rows and columns of stars: "<<endl;
         cin>>r;
         cin>>c;
 
