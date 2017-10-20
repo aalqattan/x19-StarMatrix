@@ -13,9 +13,8 @@ int main() {
 
 
 
-        cout<<"Enter rows number: "<<endl;
+        cout<<"Enter rows and columns to start: "<<endl;
         cin>>r;
-        cout<<"Enter columns number: "<<endl;
         cin>>c;
 
 
@@ -34,7 +33,7 @@ int main() {
                         {
                                 star[i][y] = '*';
 
-                                cout<<star[i][y]<<"  ";
+                                cout<<star[i][y]<<"";
                         }
 
                         cout<<endl;
